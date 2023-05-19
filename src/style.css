@@ -3,5 +3,20 @@ body {
 }
 
 img {
-  max-width: 400px;
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+h1,
+h2,
+p {
+  text-align: center;
+}
+a {
+  color: indigo;
+}
+
+.container {
+  text-align: center;
 }
