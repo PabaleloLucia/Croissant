@@ -1,9 +1,9 @@
 body {
-  background-color: darkseagreen;
+  background: #ffcbcb;
+  background-attachment: fixed;
 }
-
 img {
-  max-width: 100%;
+  max-width: 50%;
   border-radius: 10px;
   display: block;
   margin: 30px auto;
